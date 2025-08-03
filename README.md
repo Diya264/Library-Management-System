@@ -75,23 +75,24 @@ http://localhost/Library/home.php
 ## Screenshots
 
 ### Login Page
-<img width="1365" height="589" alt="image" src="https://github.com/user-attachments/assets/21917329-30ab-4fa3-a8b8-17621ab9bf6c" />
+<img width="1365" height="589" alt="Screenshot 2025-07-16 145908" src="https://github.com/user-attachments/assets/052423da-acdc-4fac-8dc8-d624e33e7ea7" />
 
 ### Dashboard
-<img width="1365" height="601" alt="image" src="https://github.com/user-attachments/assets/50136114-2f81-4487-ad15-091d0705552c" />
-<img width="1363" height="479" alt="image" src="https://github.com/user-attachments/assets/bb4781e0-1c3a-4f2c-b095-c05ecbbf1699" />
+<img width="1365" height="601" alt="Screenshot 2025-07-16 145946" src="https://github.com/user-attachments/assets/c03fc4f8-92cf-4ea9-a119-a6e895bf7ed0" />
+<img width="1363" height="479" alt="Screenshot 2025-07-16 150102" src="https://github.com/user-attachments/assets/5ac2bf0e-4b5e-4b9e-9f5a-3a926c2f785c" />
 
 ### Book Details 
-<img width="1365" height="584" alt="image" src="https://github.com/user-attachments/assets/f06e1b97-4da6-4848-a457-2e7f2fcc13c6" />
+<img width="1365" height="584" alt="Screenshot 2025-07-16 150147" src="https://github.com/user-attachments/assets/f8bef69f-95bb-4b5d-815b-716ab35cad54" />
 
 ### Book Issue Records
-<img width="1365" height="593" alt="image" src="https://github.com/user-attachments/assets/cd7665ee-7bee-49aa-8c1c-30244893c8e7" />
+<img width="1365" height="593" alt="Screenshot 2025-07-16 150309" src="https://github.com/user-attachments/assets/d0c5f9d9-9075-46e6-a4d7-11af55ec55c7" />
 
 ### Members
-<img width="1365" height="589" alt="image" src="https://github.com/user-attachments/assets/5627cad2-4f4c-468c-91f3-41d0841d57bf" />
+<img width="1365" height="589" alt="Screenshot 2025-07-16 150431" src="https://github.com/user-attachments/assets/062ed26e-3a9e-4a36-bfb0-151f79910efa" />
 
 ### Fine Details
-<img width="1365" height="590" alt="image" src="https://github.com/user-attachments/assets/77be25da-153c-49f6-8256-478c7c1739ed" />
+<img width="1365" height="584" alt="Screenshot 2025-07-16 150514" src="https://github.com/user-attachments/assets/d1f1dc2e-4e0f-4737-b234-a1429683dc47" />
 
 ### Supplier Details
-<img width="1365" height="584" alt="image" src="https://github.com/user-attachments/assets/7be442da-f62b-4148-aba4-3d90c4521208" />
+<img width="1365" height="590" alt="Screenshot 2025-07-16 175744" src="https://github.com/user-attachments/assets/d52525df-b8bd-45f8-9e96-4fef9ed3a73d" />
+
